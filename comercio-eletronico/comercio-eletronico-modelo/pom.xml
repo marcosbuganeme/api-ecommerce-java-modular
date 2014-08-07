@@ -17,4 +17,34 @@
 
 	<name>comercio-eletronico-modelo</name>
 
+	<dependencies>
+
+		<dependency>
+
+			<groupId>br.com.4codetisolutions.arquitetura</groupId>
+
+			<artifactId>entidade</artifactId>
+
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
+		<dependency>
+
+			<groupId>javax</groupId>
+
+			<artifactId>javaee-api</artifactId>
+
+			<version>7.0</version>
+
+		</dependency>
+
+	</dependencies>
+
+	<build>
+
+		<finalName>comercio-eletronico-modelo</finalName>
+
+	</build>
+
 </project>
