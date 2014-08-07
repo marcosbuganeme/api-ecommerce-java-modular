@@ -19,4 +19,10 @@
 
 	<name>comercio-eletronico-apresentacao</name>
 
+	<build>
+
+		<finalName>comercio-eletronico-apresentacao</finalName>
+
+	</build>
+
 </project>
