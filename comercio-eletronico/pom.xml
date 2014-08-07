@@ -6,4 +6,8 @@
   <packaging>pom</packaging>
   <name>comercio-eletronico</name>
   <description>empacotador</description>
+  <modules>
+  	<module>comercio-eletronico-modelo</module>
+  	<module>comercio-eletronico-apresentacao</module>
+  </modules>
 </project>
