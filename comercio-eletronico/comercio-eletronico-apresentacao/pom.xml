@@ -19,6 +19,70 @@
 
 	<name>comercio-eletronico-apresentacao</name>
 
+	<dependencies>
+
+		<dependency>
+
+			<groupId>br.com.4codetisolutions.arquitetura</groupId>
+
+			<artifactId>entidade</artifactId>
+
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
+		<dependency>
+
+			<groupId>br.com.4codetisolutions.arquitetura</groupId>
+
+			<artifactId>apresentacao</artifactId>
+
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
+		<dependency>
+
+			<groupId>br.com.4codetisolutions.arquitetura</groupId>
+
+			<artifactId>arquitetura-jsf</artifactId>
+
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
+		<dependency>
+
+			<groupId>br.com.4codetisolutions.arquitetura</groupId>
+
+			<artifactId>objeto-negocio</artifactId>
+
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
+		<dependency>
+
+			<groupId>br.com.4codetisolutions.arquitetura</groupId>
+
+			<artifactId>servico</artifactId>
+
+			<version>0.0.1-SNAPSHOT</version>
+
+		</dependency>
+
+		<dependency>
+
+			<groupId>org.glassfish</groupId>
+
+			<artifactId>javax.faces</artifactId>
+
+			<version>2.2.7</version>
+
+		</dependency>
+
+	</dependencies>
+
 	<build>
 
 		<finalName>comercio-eletronico-apresentacao</finalName>
