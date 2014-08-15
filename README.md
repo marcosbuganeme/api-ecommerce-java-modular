@@ -1,18 +1,31 @@
-ecommerce
-=========
+Comercio-eletronico - Desenvolvimento modular
 
-desenvolvedor: Marcos Olavo Silva Buganeme
+=====
 
-email: marcos.after@gmail.com
+Desenvolvedor: Marcos O. S. Buganeme
+
+e-Mail: marcos.after@gmail.com
 
 Descrição do projeto
 
-1 Projeto ecommerce modular
+1 Divisão dos módulos do projeto
 
--> Apresentacao
+-> Módulo de apresentação
 
--> Integracao
+Módulo responsável por conter todo o código referente a camada de visão, tanto em java quanto em .xhtml
 
--> Modelo
+-> Módulo de negócio
 
--> Negocio
+Módulo responsável por conter as classes das regras de negócio.
+
+-> Módulo do modelo.
+
+Módulo responsável por conter toda as classes da camada de modelo, cuja principal e única caracteristica é a de representar a abstração dos dados.
+
+-> Módulo integração
+
+Módulo responsável por conter as classes que fazem a integração com os outros módulos. Interfaces estão contidas neste módulo.
+
+2 Integração com a arquitetura modular
+
+No outro repositório cujo nome é "arquitetura-java-modular" contêm todos os fontes responsáveis para facilitar a implementação.
