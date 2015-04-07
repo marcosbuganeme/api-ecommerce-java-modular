@@ -1,0 +1,16 @@
+br/com/ecommerce/servico/ServiceSupport.class
+br/com/ecommerce/modelo/Usuario.class
+br/com/ecommerce/servico/UsuarioService.class
+br/com/ecommerce/repository/UsuarioDAO.class
+br/com/ecommerce/modelo/enuns/EnumStatus.class
+br/com/ecommerce/repository/impl/UsuarioHibernateDAO.class
+br/com/ecommerce/repository/DAO.class
+br/com/ecommerce/servico/exception/RegistroJaExisteException.class
+br/com/ecommerce/servico/exception/RegistroNaoExisteException.class
+br/com/ecommerce/controller/ControllerSupport.class
+br/com/ecommerce/servico/exception/NegocioException.class
+br/com/ecommerce/controller/form/Formulario.class
+br/com/ecommerce/controller/UsuarioController.class
+br/com/ecommerce/repository/impl/HibernateDAO.class
+br/com/ecommerce/modelo/Entidade.class
+br/com/ecommerce/modelo/ModelSupport.class
