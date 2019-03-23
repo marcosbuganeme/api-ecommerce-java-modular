@@ -1,12 +1,10 @@
 Comercio-eletronico - Desenvolvimento modular
 =====
 
-<b>Projeto construido em Java, possui a seguinte separação para representar os módulos:</b>
+<h4>Projeto construido em Java, possui a seguinte separação para representar os módulos:</h4>
 
-<b>domain (representa as entidades, repositórios e serviços)</b>
-<br>
+<h6>domain (representa as entidades, repositórios e serviços)</h6>
 
-<b>web (interface gráfica)</b>
-<br>
+<h6>web (interface gráfica)</h6>
 
-<b>parent (burocracia do maven para empacotar os projetos)=
+<h6>parent (burocracia do maven para empacotar os projetos)</h6>
